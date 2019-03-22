@@ -247,7 +247,7 @@ header nav a {
 }
 
 .header__image {
-  margin: 20px 0 25px;
+  margin: 20px 0 20px;
 }
 
 
@@ -262,3 +262,56 @@ header nav a {
 .middle-content .boxes .box.box--hotpink { background-color: hotpink; }
 .middle-content .boxes .box.box--indigo { background-color: indigo; }
 .middle-content .boxes .box.box--dodgerblue { background-color: dodgerblue; }
+
+
+/* ABOUT PAGE */
+.about-page .wide-content {
+  padding: 0 2.5%;
+  /* margin-bottom: 30px; */
+}
+
+.about-page .wide-content--top {
+  border-bottom: 1px dashed black;
+  padding-bottom: 20px;
+}
+
+
+.about-row {
+  display: flex;
+  padding: 0 2%;
+  justify-content: space-between;
+  /* margin-top: 30px; */
+  /* margin-bottom: 30px; */
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+
+.about-section {
+  border-bottom: 1px dashed black;
+  width: 48%;
+}
+
+
+
+
+.about-section img {
+  margin-bottom: 10px;
+}
+
+.about-section p {
+  margin-bottom: 20px;
+}
+
+.about-section button {
+  border: 2px solid black;
+  border-radius: 8px;
+  font-size: 16px;
+  padding: 9px 22px;
+  margin-bottom: 20px;
+}
+
+.about-page .wide-content--bottom {
+  padding-top:20px;
+  padding-bottom:40px;
+}
