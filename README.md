@@ -34,25 +34,28 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Semantic HTML is markup that provides meaning to the content in an HTML document. Semantic markup provides context to a given block of content by using tags that describe it's purpose.
+- Semantic HTML is markup that provides meaning to the content in an HTML document. Semantic markup provides context to a given block of content by using tags that describe it's purpose.
 
 2. Name two big differences between `display: block;` and `display: inline;`.
 
-An element that is `display: block;` will not allow any other HTML elements next to it, whereas elements that are `display: inline;` will appear on the same line as each other.
+- An element that is `display: block;` will not allow any other HTML elements next to it, whereas elements that are `display: inline;` will appear on the same line as each other.
 
-You can add margins and padding to all four sides of an element that is `display: block;`. You can only add margin or padding to the left and right of an inline element.
+- You can add margins and padding to all four sides of an element that is `display: block;`. You can only add margin or padding to the left and right of an inline element.
 
 3. What are the 4 areas of the box model?
 
-content, padding, border, margin
+- content
+- padding
+- border
+- margin
 
 4. While using flexbox, what axis does the following property work on: `align-items: center`?
 
-cross axis
+- cross axis
 
 5. Explain why git is valuable to a team of developers.
 
-Git is version cnotrol software that allows developers to have a saved history of all the changes made during development. This is especially valuable to teams because it allows work to be more easily divided and provides a means to revert changes.
+- Git is version cnotrol software that allows developers to have a saved history of all the changes made during development. This is especially valuable to teams because it allows work to be more easily divided and provides a means to revert changes.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 
