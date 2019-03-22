@@ -55,7 +55,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5. Explain why git is valuable to a team of developers.
 
-- Git is version cnotrol software that allows developers to have a saved history of all the changes made during development. This is especially valuable to teams because it allows work to be more easily divided and provides a means to revert changes.
+- Git is version control software that allows developers to have a saved history of all the changes made during development. This is especially valuable to teams because it allows work to be more easily divided and provides a means to revert changes.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 
