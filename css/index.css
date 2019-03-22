@@ -249,3 +249,16 @@ header nav a {
 .header__image {
   margin: 20px 0 25px;
 }
+
+
+/* BOX BACKGROUND COLORS */
+.middle-content .boxes .box.box--teal { background-color: teal; }
+.middle-content .boxes .box.box--gold { background-color: gold; }
+.middle-content .boxes .box.box--cadetblue { background-color: cadetblue; }
+.middle-content .boxes .box.box--coral { background-color: coral; }
+.middle-content .boxes .box.box--crimson { background-color: crimson; }
+.middle-content .boxes .box.box--forestgreen { background-color: forestgreen; }
+.middle-content .boxes .box.box--darkorchid { background-color: darkorchid; }
+.middle-content .boxes .box.box--hotpink { background-color: hotpink; }
+.middle-content .boxes .box.box--indigo { background-color: indigo; }
+.middle-content .boxes .box.box--dodgerblue { background-color: dodgerblue; }
